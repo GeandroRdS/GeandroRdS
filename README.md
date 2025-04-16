@@ -15,7 +15,7 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 - 📱 **Tecnologias Mobile**: Sempre em busca de aprender mais, também me aventuro com **Flutter**, desenvolvendo aplicativos móveis.
 - 🇺🇸 **Inglês avançado**: Tenho fluência em inglês técnico, o que me permite ler, escrever e comunicar com desenvolvedores do mundo todo.
 
-  ### 🚀 Tecnologias que uso com frequência:
+### 🚀 Tecnologias que uso com frequência:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
