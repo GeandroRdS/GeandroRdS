@@ -1,8 +1,3 @@
-<div style="float: right; margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="loop_processing GIF.gif" alt="CPU gif" width="300" height="200" style="border-radius: 10px;">
-</div>
-
-
 # 🇧🇷 Bem-vindo | 🇺🇸 Welcome | 🇪🇸 Bienvenido | 🇮🇹 Benvenuto | 🇫🇷 Bienvenue | 🇷🇺 Добро пожаловать | 🇨🇳 欢迎
 
 ## Olá, eu sou o Geandro! 👋
@@ -23,7 +18,9 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 
 
 ## Um pouco mais sobre mim:
-
+<div style="float: right; margin-left: 20px; margin-top: 5px; margin-bottom: 5px;">
+  <img src="loop_processing GIF.gif" alt="CPU gif" width="300" height="200" style="border-radius: 10px;">
+</div>
 - 💻 **Desenvolvimento de software**: Tenho sólida experiência com **Java**, criando sistemas robustos, escaláveis e de fácil manutenção.
 - 🧠 **Inteligência Artificial**: Atualmente, estou envolvido em projetos de **Deep Learning** e **processamento de imagens**, explorando novas maneiras de aplicar redes neurais para resolver problemas do mundo real.
 - 📱 **Tecnologias Mobile**: Sempre em busca de aprender mais, também me aventuro com **Flutter**, desenvolvendo aplicativos móveis.
