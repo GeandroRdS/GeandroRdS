@@ -27,7 +27,7 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeandroRdS&show_icons=true&theme=radical" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeandroRdS&layout=compact&theme=radical&hide_progress=true&langs_count=6" width="48.5%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeandroRdS&layout=compact&theme=radical&hide_progress=true&langs_count=6" width="48.5%" />-->
 </p>
 
 
