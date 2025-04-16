@@ -14,6 +14,11 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+---
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
+
+
 ## Um pouco mais sobre mim:
 
 - 💻 **Desenvolvimento de software**: Tenho sólida experiência com **Java**, criando sistemas robustos, escaláveis e de fácil manutenção.
