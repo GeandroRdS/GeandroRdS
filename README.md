@@ -1,4 +1,7 @@
-<img src="loop_processing GIF.gif" alt="CPU gif" width="300" height="200" align="right" style="margin-left: 20px;">
+<div style="float: right; margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
+  <img src="loop_processing GIF.gif" alt="CPU gif" width="300" height="200" style="border-radius: 10px;">
+</div>
+
 
 # 🇧🇷 Bem-vindo | 🇺🇸 Welcome | 🇪🇸 Bienvenido | 🇮🇹 Benvenuto | 🇫🇷 Bienvenue | 🇷🇺 Добро пожаловать | 🇨🇳 欢迎
 
