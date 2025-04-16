@@ -22,4 +22,7 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 - 🧠 **Inteligência Artificial**: Atualmente, estou envolvido em projetos de **Deep Learning** e **processamento de imagens**, explorando novas maneiras de aplicar redes neurais para resolver problemas do mundo real.
 - 📱 **Tecnologias Mobile**: Sempre em busca de aprender mais, também me aventuro com **Flutter**, desenvolvendo aplicativos móveis.
 - 🇺🇸 **Inglês avançado**: Tenho fluência em inglês técnico, o que me permite ler, escrever e comunicar com desenvolvedores do mundo todo.
+  ---
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeandroRdS&layout=compact&theme=radical)
+
 
