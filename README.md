@@ -21,7 +21,7 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 - 💻 **Desenvolvimento de software**: Tenho boa experiência com **Java**, que venho utilizando para criar projetos. Gosto de desenvolver soluções funcionais e organizadas.
 - 🧠 **Inteligência Artificial**: Atualmente, estou envolvido em projetos de **Deep Learning** e **processamento de imagens**, explorando novas maneiras de aplicar redes neurais para resolver problemas do mundo real.
 - 📱 **Tecnologias Mobile**: Sempre em busca de aprender mais, também me aventuro com **Flutter**, desenvolvendo aplicativos móveis.
-- 🇺🇸 **Inglês avançado**: Tenho fluência em inglês técnico, o que me permite ler, escrever e comunicar com desenvolvedores do mundo todo.
+- 🇺🇸 **Inglês avançado**: Possuo nível avançado de inglês, com boa capacidade de leitura, escrita e comunicação em contextos técnicos e profissionais.
 
    ---
 
