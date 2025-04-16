@@ -1,4 +1,4 @@
-# 🇧🇷 Bem-vindo | 🇺🇸 Welcome | 🇪🇸 Bienvenido | 🇮🇹 Benvenuto | 🇫🇷 Bienvenue | 🇷🇺 Добро пожаловать | 🇨🇳 欢迎
+# 👨‍💻 Welcome to my GitHub Profile!
 
 ## Olá, eu sou o Geandro! 👋
 
