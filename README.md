@@ -15,7 +15,7 @@ Sou estudante do **4º ano de Ciência da Computação** na **UNIOESTE (Universi
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geandro-ribeiro-da-silva-8a8613291/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geandro099/)
-
+---
 
 ## Um pouco mais sobre mim
 - 💻 **Desenvolvimento de software**: Tenho boa experiência com **Java**, que venho utilizando para criar projetos. Gosto de desenvolver soluções funcionais e organizadas.
